@@ -1,4 +1,9 @@
 angular.module('devmtnTravel').service('mainSrv', function(){
+    
+
+
+
+
 
     this.travelInfo = [{
         city: 'New York',
@@ -22,7 +27,5 @@ angular.module('devmtnTravel').service('mainSrv', function(){
         desc: "Sydney, capital of New South Wales and one of Australia's largest cities, is best known for its harbourfront Opera House, with a distinctive sail-like design. Massive Darling Harbour and Circular Qua",
         id: 11223489,
         price: 1112
-
-
     }]
 })
